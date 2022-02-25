@@ -81,7 +81,7 @@ export default {
   box-shadow: 0 0 30px #00000065;
 }
 .weather-wrap {
-  height: 600px;
+  height: 100%;
   padding: 25px;
   border-radius: 25px;
   background-image: linear-gradient(
